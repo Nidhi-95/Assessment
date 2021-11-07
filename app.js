@@ -7,7 +7,7 @@ const subtract = (a, b) => {
 }
 
 const product = (a, b) => {
-  return a*b;
+  return a * b;
 }
 
 console.log("Addition : ", add(5,4));
