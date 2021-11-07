@@ -1,0 +1,22 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nidhi-95/Assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nidhi-95/Assessment/issues"
+  },
+  "homepage": "https://github.com/Nidhi-95/Assessment#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
