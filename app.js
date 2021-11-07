@@ -6,4 +6,10 @@ const subtract = (a, b) => {
   return a-b;
 }
 
-console.log(subtract(5,4));
+const product = (a, b) => {
+  return a*b;
+}
+
+console.log("Addition : ", add(5,4));
+console.log("Subtraction result : ", subtract(5,4));
+console.log("Product result : ", product(5,4));
