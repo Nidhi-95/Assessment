@@ -1,6 +1,7 @@
 const add = (a, b) => {
   console.log("a : ", a);
   return a+b;
+  return a + b;
 }
 
 const subtract = (a, b) => {
